@@ -10,3 +10,5 @@ Este projeto consiste na criação de uma página HTML simples com links para di
 - 💻 **Link Pesquisa: Requisições HTTP** – Referente à Aula 11
 - 🚀 **Link Hospedagem Render – Site HTML** – Aula 14
 - ⚙️ **Link Hospedagem Render – CRUD completo com JSON-SERVER** utilizando o EXPRESS e Dockerfile, separando as páginas com cada protocolo HTTP (CRUD - POST - GET - PUT e DELETE).
+
+🔗 Acesse aqui: https://somativa-1-pbe-2.vercel.app/
